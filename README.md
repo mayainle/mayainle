@@ -6,7 +6,9 @@
 - 🐉 I’m currently working on a mythical creature app 
 - 🛤️ I'm also working on a travel app, to help me stay organised with my travels
 - 👾 I like to recreate classic games in a pocket size format
-- I'm passionated about:
+  
+## I'm passionated about:
+
   - 🗺️ Travelling
   - 🏔️ Hiking
   - 📷 Photography
