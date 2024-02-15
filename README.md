@@ -1,9 +1,9 @@
 ### Hi there, I'm Maja (pronounced Maya) 👋 
 
-- 👩🏻‍💻 I'm a software developer (mobile game developer), currently working for a gaming company in Germany.
-- 💻 Favorite tech stack for my projects: JavaScript/TypeScript, React (Redux), GraphQL, Node, Firebase
+- 👩🏻‍💻 I'm a software developer (mobile developer).
+- 💻 Favorite tech stack for my projects: TypeScript, React, React Native, GraphQL, Node, Firebase, Flutter
 
-- 🐉 I’m currently working on a mythical creature app 
+- 🐉 I’m currently working on a mythical creature game
 - 🛤️ I'm also working on a travel app, to help me stay organised with my travels
 - 👾 I like to recreate classic games in a pocket size format
   
@@ -12,9 +12,9 @@
   - 🗺️ Travelling
   - 🏔️ Hiking
   - 📷 Photography
-  - 🤖 Coding
   - 🐶 Volunteering
   - 🎨 Drawing
+  - 🤖 Coding
   - 🔭 Astronomy
   - 🕹️ Games
   - 🎥 Anime
